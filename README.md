@@ -1,6 +1,10 @@
-# Notas
+# Notas:
 Este es mi primer programa en Node
 ```
-Opciones:
-      --help     Muestra ayuda                                     [booleano]      --version  Muestra número de versión                         [booleano]  -b, --base     Es la base de la tabla a multiplicar    [número] [requerido]  -l, --listar   Muestra la tabla en consola      [booleano] [defecto: false]  -h, --hasta    Numero hasta donde llegua la tabla
+Options:
+      --help     Show help                                             [boolean]
+      --version  Show version number                                   [boolean]
+  -b, --base     Es la base de la tabla a multiplicar        [number] [required]
+  -l, --listar   Muestra la tabla en consola          [boolean] [default: false]
+  -h, --hasta    Numero hasta donde llegua la tabla
 ```
